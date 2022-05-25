@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+#wrapper,
+h2,
+h3,
+p {
+  padding-left: 1rem;
+}
+
+nav {
+  background-color: #333;
+}
+
+nav a {
+  color: #fff;
+}
+
+nav a:hover {
+  color: #f00;
+}
+
+#active-page {
+  background-color: #595656;
+  border-radius: 25%;
+  padding: .5rem;
+}
+
+.container {
+  border: #333;
+}
+
+.col {
+  background-color: #595656;
+  color: #fff;
+  padding: 1rem;
+}
+
+.container {
+  padding-top: 1rem;
+}
+
+.row {
+  margin: 1rem;
+}
+
+#contact-me {
+  text-align: center;
+}
+
+
+
